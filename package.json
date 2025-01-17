@@ -5,7 +5,8 @@
   "author": "Fahim Ahammed Firoz",
   "license": "MIT",
   "scripts": {
-    "github-activity": "npx ts-node src/github-user-activity/index.ts"
+    "github-activity": "npx ts-node src/github-user-activity/index.ts",
+    "game": "npx ts-node src/number-guessing-game/index.ts"
   },
   "dependencies": {
     "axios": "^1.7.9",
